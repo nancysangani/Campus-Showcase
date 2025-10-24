@@ -1,7 +1,6 @@
 # 🎓 Campus Showcase
 
 > A responsive college website built using **Bootstrap 5** that highlights campus vision, mission, programs, events, and top recruiters.
-
 > Hosted with ❤️ on [Vercel](https://campus-showcase.vercel.app/)
 
 ---
