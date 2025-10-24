@@ -30,4 +30,4 @@ Event Gallery, and Top Recruiters — all in a clean, user-friendly layout.
 | **HTML5** | Page structure and content |
 | **CSS3** | Custom styling and responsiveness |
 | **Bootstrap 5** | Layout design and responsive utilities |
-| **JavaScript (optional)** | Smooth scrolling animations |
+| **JavaScript** | Smooth scrolling animations |
